@@ -1,0 +1,5 @@
+print(type(1))
+print(type('a'))
+print(type(1.4))
+print(type(True))
+print(type(3j + 2))
